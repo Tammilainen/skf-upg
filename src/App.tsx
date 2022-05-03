@@ -26,7 +26,7 @@ const App: FC = () => {
           <Route path="/home/child11/child111" element={<Child111 />}></Route>
           <Route path="/home/child12" element={<Child12 />}></Route>
           <Route path="/home/child13" element={<Child13 />}></Route>
-          <Route path="/home/child131" element={<Child131 />}></Route>
+          <Route path="/home/child13/child131" element={<Child131 />}></Route>
           <Route path="/home/child14" element={<Child14 />}></Route>
           <Route path="/home2" element={<Home2 />}></Route>
         </Routes>
